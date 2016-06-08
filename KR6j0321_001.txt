@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:14.235463
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:52
 #+TITLE: 青頸觀自在菩薩心陀羅尼經
 #+PROPERTY: CBETA_ID T20n1111
 #+PROPERTY: ID KR6j0321
